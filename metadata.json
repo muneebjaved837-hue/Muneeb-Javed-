@@ -1,0 +1,6 @@
+{
+  "name": "EduPulse Academy - School Management & Live Learning",
+  "description": "Comprehensive school system with Exam & Event shared calendar, AI quiz generation (MCQs, short & long questions), student doubt solver, 4-tier roles (Super Admin, School Admin, Teacher, Student), OTP onboarding, attendance, homework, and Google Meet integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
